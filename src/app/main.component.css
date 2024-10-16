@@ -1,0 +1,38 @@
+/*.title {
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color: blue;
+}
+
+.inactive_btn {
+    background-color: green;
+}
+
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: pink;
+}
+
+#squares {
+    display: flex;
+}
+/*
+.row {
+    display: flex; /* Make the container a flex container 
+    justify-content: center; /* Center the rows horizontally 
+    margin-bottom: 20px;
+}
+**/
+.grid {
+    display: inline-block;
+    justify-content: center;
+}
+#grid {
+    display: inline-block;
+    justify-content: center;
+}
