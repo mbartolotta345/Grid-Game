@@ -1,1 +1,4 @@
-
+#squares {
+    display: inline-block;
+    justify-content: center;
+}
