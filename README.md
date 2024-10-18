@@ -25,10 +25,11 @@ Welcome to the **Grid Game**! This interactive game allows players to create a c
 
 ## Usage
 
-<ul>1. Enter the desired height and width for the grid.</ul>
+<ul>1. SLide to select the desired height and width for the grid.</ul>
 <ul>2. Select a game mode from the options provided.</ul>
-<ul>3. Click on any emoji in the grid to start the game.</ul>
-<ul>4. The game will update based on your selected mode, and you'll see the number of clicks needed to achieve victory.</ul>
+<ul>3. Create grid</ul>
+<ul>4. Click on any emoji in the grid to start the game.</ul>
+<ul>5. The game will update based on your selected mode, make the entire grid all one color (black or white) to win!</ul>
 
 ## Game Modes
 
@@ -52,8 +53,6 @@ Diagonal Neighbors
 <li>Clicking an emoji changes the color of its diagonal neighbors.</li>
 </ul>
 
-## How to Play
-The goal is to change all emojis in the grid to the same color (either all black or all white).
 ## Technologies Used
 <ul>
 <li>TypeScript</li>
